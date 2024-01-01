@@ -1,2 +1,2 @@
 # Shopeza-Ecommerce
-Ecommerce multi landing templates
+<p>Ecommerce multi landing templates</p>
